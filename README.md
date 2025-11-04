@@ -1,4 +1,6 @@
-# The Algorithmic Thinking
+
+<img height=100% alt="The Algorithmic Thinking" src="https://github.com/user-attachments/assets/923e9382-8647-438b-b9ff-64c575bfb709" />
+<hr>
 
 This repository is dedicated to building a strong foundation in **algorithmic problem-solving** and **computational logic**.
 It includes practical Jupyter Notebooks covering essential topics such as **Big O Notation**, **Data Structures**, and **Logarithms**, the building blocks for mastering algorithms and improving coding efficiency.
