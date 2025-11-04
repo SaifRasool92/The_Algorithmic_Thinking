@@ -1,4 +1,4 @@
-# Algorithmic Thinking
+# The Algorithmic Thinking
 
 This repository is dedicated to building a strong foundation in **algorithmic problem-solving** and **computational logic**.
 It includes practical Jupyter Notebooks covering essential topics such as **Big O Notation**, **Data Structures**, and **Logarithms**, the building blocks for mastering algorithms and improving coding efficiency.
